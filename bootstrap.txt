@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Immigration|Canada</title>
+
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+	<style type="text/css">
+				.container-fluid{
+					padding-right: 0px;
+					padding-left: 0px;
+				}
+
+				.nav-item{
+					padding-right: 1.5rem;
+				}
+				
+				.jumbotron{
+
+					background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+					color: white;
+				}
+
+	</style>
+</head>
+
+<body>
+
+
+
+		<div class="container-fluid">
+
+
+			
+
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+						  <a class="navbar-brand" href="#">Immigration Canada</a>
+						  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						    <span class="navbar-toggler-icon"></span>
+						  </button>
+
+						  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+						    <ul class="navbar-nav ml-auto">
+						      		<li class="nav-item active">
+						        		<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+						      </li>
+
+						      <li class="nav-item">
+						        <a class="nav-link" href="Blogs.html">Blogs</a>
+						      </li>
+
+						       <li class="nav-item">
+						        <a class="nav-link" href="Gallery.html">Gallery</a>
+						      </li>
+
+						       <li class="nav-item">
+						        <a class="nav-link" href="SiteMap.html">SiteMap</a>
+						      </li>
+
+
+						      <li class="nav-item dropdown">
+						        <a class="nav-link dropdown-toggle" href="Services.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						          Our Services
+						        </a>
+						        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						          <a class="dropdown-item" href="Services.html">Study Visa</a>
+						        <a class="dropdown-item" href="work.html">Work Visa</a>
+						          <div class="dropdown-divider"></div>
+						          <a class="dropdown-item" href="spouse.html">Spouse Visa</a>
+						        </div>
+						      </li>
+						     
+						    </ul>
+						    <form class="form-inline my-2 my-lg-0 ml-5">
+						      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+						      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+						    </form>
+						  </div>
+			</nav>
+
+
+			
+
+		</div>
+
+
+	<div class="container-fluid">
+  <img src="images/1.jpg" style="width:100%;">
+ 
+ 
+</div>
+
+
+
+
+			<div class="jumbotron text-center">
+					<h1 class="text-uppercase">Blogs</h1>
+					<p class="mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.</p>
+					<button type="submit" class="btn btn-primary">More Info</button>
+				</div>
+
+
+				<div class="container">
+						<div class="row">
+							
+								<div class="col-sm-12 col-lg-4 col-md-6">
+									<h3 class="text-center">Covid Updates</h3>
+									<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+
+								<div class="col-sm-12 col-lg-4 col-md-6">
+										<h3 class="text-center">Canada's Visa update</h3>
+										<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+
+								<div class="col-sm-12 col-lg-4 col-md-6">
+									<h3 class="text-center">Study Permit Guidelines</h3>
+										<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+						</div>
+
+						
+						<div class="row mt-5 mb-5">
+
+							<div class="col-sm-12 col-lg-4 col-md-6">
+								<div class="card" style="width: 18rem;">
+									  <img src="img/3.jpeg" class="card-img-top" alt="...">
+									  <div class="card-body">
+									    <h5 class="card-title">Card title</h5>
+									    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+									    <a href="#" class="btn btn-primary">Go somewhere</a>
+									  </div>
+									</div>
+							</div>
+							
+
+							<div class="col-sm-12 col-lg-4 col-md-6">
+								<div class="card" style="width: 18rem;">
+									  <img src="img/2.jpg" class="card-img-top" alt="...">
+									  <div class="card-body">
+									    <h5 class="card-title">Card title</h5>
+									    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+									    <a href="#" class="btn btn-primary">Go somewhere</a>
+									  </div>
+									</div>
+							</div>
+
+						
+
+
+
+						<div class="col-sm-12 col-lg-4 col-md-6">
+								<div class="card" style="width: 18rem;">
+									  <img src="img/1.jpg" class="card-img-top" alt="...">
+									  <div class="card-body">
+									    <h5 class="card-title">Card title</h5>
+									    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+									    <a href="#" class="btn btn-primary">Go somewhere</a>
+									  </div>
+									</div>
+							</div>
+
+							
+
+						</div>
+
+						
+
+						<div class="alert alert-success" role="alert">
+								  <h4 class="alert-heading">Well done!</h4>
+								  <p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>
+								  <hr>
+								  <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+						</div>
+				</div>
+		
+<footer class="page-footer font-small blue pt-4 bg-dark text-light mt-5">
+
+  
+  <div class="container-fluid text-center text-md-left">
+
+    
+    <div class="row">
+
+      
+      <div class="col-md-6 mt-md-0 mt-3">
+<h5 class="text-uppercase ml-3">Immigration Canada</h5>
+        <p class="ml-3">Here you can use rows and columns to organize your footer content.</p>
+
+      </div>
+     
+      <hr class="clearfix w-100 d-md-none pb-3">
+
+      <div class="col-md-3 mb-md-0 mb-3">
+
+        <h5 class="text-uppercase">Links</h5>
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="#!" class="text-white">Link 1</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 2</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 3</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 4</a>
+          </li>
+        </ul>
+
+      </div>
+      <div class="col-md-3 mb-md-0 mb-3">
+   <h5 class="text-uppercase">Links</h5>
+
+        <ul class="list-unstyled">
+          <li>
+            <a href="#!" class="text-white">Link 1</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 2</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 3</a>
+          </li>
+          <li>
+            <a href="#!" class="text-white">Link 4</a>
+          </li>
+        </ul>
+
+      </div>
+      
+    </div>
+   
+  </div>
+ 
+  <div class="footer-copyright text-center py-3">©️ 2020 Copyright:
+    </div>
+
+</footer>
+
+</body>
+</html>

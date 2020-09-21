@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coach</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+</head>
+<body>
+    <div class="fixed-nav">
+        <nav class="navbar navbar-expang-lg container">
+            <a href="" class="navbar-brand">
+                <img src="logo.svg" alt="">
+            </a>
+            <div class="nav">
+                <ul class="nav nav-main justify-content-end">
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Homepages</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Pages</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Docs</a>
+                    </li>
+                    <li class="nav-item">
+                        
+                    </li>
+                </ul>
+                <button type="button" class="btn btn-signup">Sign up</button>
+            </div>
+        </nav>
+    </div>
+    <div class="container-fluid header">
+        <div class="row">
+            <div class="offset-xl-2 col-xl-8 col-md-12 col-12">
+                <div class="text-center padding d-flex flex-column align-items-center">
+                    <h1 class="text-white mb-6">
+                      Exquisite Online Coaching &amp; Courses Bootstrap theme.
+                    </h1>
+      
+                    <a href="index.html" class="btn btn-preview btn-lg mb-5 mt-4">Explore The Preview</a>
+                  </div>
+            </div>
+            
+        </div>
+        <!-- <h1>Exquisite Online Coaching & Courses Bootstrap theme.</h1>
+        <p>This is some text.</p> 
+        <button class="btn">Explore The Preview</button> -->
+    </div>
+    <div class="container mt-lg-n12 mt-n9 z-index-1 position-relative text-center">
+        <div class="row justify-content-around">
+          <div class="col-2 mt-3">
+            <img src="first.jpg" alt="" class=" rounded-lg shadow img-fluid">
+          </div>
+          <div class="col-2 pl-0 pr-0 ">
+            <img src="second.jpg" alt="" class=" rounded-lg shadow img-fluid">
+          </div>
+          
+          <div class="col-2  mt-3">
+            <img src="fifth.jpg" alt="" class=" rounded-lg shadow img-fluid">
+          </div>
+        </div>
+    </div>
+
+    
+              <div class="col-lg-6 col-md-6 col-12">
+                <div class="card rounded-lg border-0 shadow mb-4">
+                  <img src="bussiness.jpg" alt="" class="img-fluid rounded-top mb-3">
+                  <div class="card-body">
+                    <h4 class="mb-0">Business Coaching - Coach</h4>
+                  </div>
+                  <a href="" class="stretched-link"></a>
+                </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-1">
+                <div class="card rounded-lg border-0 shadow mb-4">
+                  <img src="coach.jpg" alt="" class="img-fluid rounded-top mb-3">
+                  <div class="card-body">
+                    <h4 class="mb-0">Coach</h4>
+                  </div>
+                  <a href="" class="stretched-link"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>  
+
+
+
+
+
+        <div class="footer pt-11 pb-3 text-base">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <div class="mb-4">
+                            <h4 class="mb-4 text-white">About</h4>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <div class="mb-4">
+                            <h4 class="mb-4 text-white ">Blog</h4>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <div class="mb-4">
+                            <h4 class="mb-4 text-white ">Resources</h4>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6">
+                        <div class="mb-4">
+                            <h4 class="mb-4 text-white ">Follow Me</h4>
+                           
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-12">
+                        <div class="mt-8">
+                            <ul class="list-inline">
+                                <li class="list-inline-item">© 2020 Coach, Inc.</li>
+                                <li class="list-inline-item"><a href="#" class="text-reset"> Privacy Policy </a></li>
+                                <li class="list-inline-item"><a href="#" class="text-reset"> Terms</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>   
+</body>
+</html>

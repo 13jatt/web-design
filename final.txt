@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <title>Scripting Language</title>
+<script src:"script.js"></script>    
+    <style>
+      html,
+      body {
+        height: 100%;
+      }
+      body {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0;
+      }
+      .header-menu,
+      footer {
+        display: flex;
+        align-items: center;
+        width: 100%;
+      }
+      .header-menu {
+        justify-content: flex-end;
+        height: 60px;
+        background: black;
+        color: #fff;
+      }
+      h2 {
+        margin: 0 0 8px;
+      }
+      ul li {
+        display: inline-block;
+        padding: 0 10px;
+        list-style: none;
+      }
+      aside {
+        flex: 0.4;
+        height: 165px;
+        padding-left: 15px;
+        border-left: 1px solid #666;
+      }
+      section {
+        flex: 1;
+        padding-right: 15px;
+      }
+      footer {
+        padding: 0 10px;
+        background: #ccc;
+      }
+    </style>
+  </head>
+  <body>
+
+    <header class="header-menu">
+      <nav>
+
+        <ul>
+          <li>WORLD TOTAL</li>
+          <li>EACH COUNTRY</li>
+          <li>GROWTH RATE</li>
+          <li>REASON FOR GROWTH</li>
+        </ul>
+      </nav>
+    </header>
+    <section>
+      <div class="container">
+        <header>
+          <h2>CENSUS</h2>
+          
+        </header>
+        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+      
+        <header>
+          <h2>Residence definitions</h2>
+          
+        </header>
+        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+      
+    </section>
+    <aside>
+      <h2>TOP POPULATIONS</h2>
+      <p>CHINA</p>
+      <p>INDIA</p>
+      <p>UNITED STATES OF AMERICA</p>
+      <p>INDONASIA</p>
+    </aside>
+  </div>
+    <footer>
+      <small>Powered by WIKI. All rights reserved.</small>
+    </footer>
+  </body>
+</html>

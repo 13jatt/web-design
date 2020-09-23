@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Scripting Language</title>
+</head>
+<body>
+	<form>
+		<input type="submit" name="submit" onclick="read()" value="Add Name">
+		<input type="submit" name="list" value="View List" onclick="Showlist()">
+	</form>
+
+	<script type="text/javascript">
+		var Fname =[];
+		function read()
+		{
+			re = prompt("Enter Name");
+			Fname.push(re);
+			alert(Fname);
+		}
+     
+     function Showlist()
+     {
+
+     	alert(Fname);
+     }
+		
+	</script>
+
+</body>
+</html>

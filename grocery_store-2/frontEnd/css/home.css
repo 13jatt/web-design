@@ -1,0 +1,29 @@
+.bg-color-green{
+    background-color: #924d0d;
+}
+.bg-color-white{
+    background-color: #ffffff;
+}
+.card{
+    margin: 1rem 0 0 0;
+    padding: 0.5rem;
+    background-color: #924d0d;
+    min-height: 26rem;
+}
+.card a{
+    border-color: #ffffff;
+}
+nav a{
+    color:#ffffff;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+.d-flex button{
+    border: 1px solid white;
+    color: wheat;
+}
+footer {
+    color:#ffffff !important;
+}
